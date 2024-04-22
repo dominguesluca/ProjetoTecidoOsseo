@@ -37,7 +37,7 @@
   display: grid;
   grid-template-columns: repeat(12, 10vw); /* Tamanho relativo para as colunas */
   grid-template-rows: repeat(12, 10vw); /* Tamanho relativo para as linhas */
-  gap: 2px;
+  gap: 1px;
   max-width: 100%; /* Adiciona uma largura máxima para o quadro */
   max-height: 30%;
   overflow: auto; /* Adiciona rolagem caso o quadro seja grande demais */
